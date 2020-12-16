@@ -1,0 +1,1 @@
+./ffmpeg.exe -i 'vin.mp4' -vf "movie=mark.png [watermark]; [in][watermark] overlay=main_w-overlay_w-40:main_h-overlay_h-40 [out]"  'mark_vout.mp4'

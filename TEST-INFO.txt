@@ -1,0 +1,9 @@
+@Windows 7 
+@Git Bash
+
+00cmd OK
+20cmd OK
+30cmd OK
+
+Done
+

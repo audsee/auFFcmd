@@ -1,0 +1,1 @@
+./ffmpeg.exe -i vin.mp4 -codec:a libmp3lame -q:a 0 hqout.mp3
